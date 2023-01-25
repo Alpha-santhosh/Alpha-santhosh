@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alpha-santhosh
-- 👀 I’m interested in sciences and development
-- 🌱 I’m currently learning Full Stack Web Development
+- 👋 Hi, I’m Santhosh S
+- 👀 I’m interested to work as Front End Web Developer
+- 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me subramanisanthosh00@gmail.com
 
