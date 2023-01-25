@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me subramanisanthosh00@gmail.com
-- Skills - Figma, HTML, CSS, Bootstrap, Javascript
+- Skills - Figma, HTML, CSS, Bootstrap and Javascript
 
 <!---
 Alpha-santhosh/Alpha-santhosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
