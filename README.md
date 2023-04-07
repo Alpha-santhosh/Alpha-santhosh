@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I'm Currently working on ReactJS
 - 🌱 I’m currently learning how to build Web Applications
-- 💬 Ask me about JavaScript, Front-End Development
+- 💬 Ask me about JavaScript,React JD Front-End Development
 - 📫 Connect with me: Check links👇🏻😊
 
 <a href="https://www.linkedin.com/in/santhosh-subramani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
