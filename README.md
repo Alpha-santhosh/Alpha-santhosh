@@ -1,11 +1,11 @@
-## Hi there 👋, I'm Santhosh s
+## Hi there 👋, I am Santhosh S
 
 - 😄 Pronouns: He/Him
 - 🔭 I'm Currently working on ReactJS
 - 🌱 I’m currently learning how to build Web Applications
 - 💬 Ask me about JavaScript,React JD Front-End Development
-- 📫 Connect with me: Check links👇🏻😊
 
+## 📫 Connect with me: Check links👇🏻😊
 <a href="https://www.linkedin.com/in/santhosh-subramani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:subramanisanthosh00@gmail.com"><img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
