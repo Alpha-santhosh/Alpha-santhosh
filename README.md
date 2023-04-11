@@ -1,4 +1,4 @@
-## Hi there 👋, I am Santhosh S
+# > Hi there 👋, I'm Santhosh S
 
 - 😄 Pronouns: He/Him
 - 🔭 I'm Currently working on ReactJS
