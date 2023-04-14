@@ -4,7 +4,6 @@
 - 🔭 I'm Currently working on ReactJS
 - 🌱 I’m currently learning how to build Web Applications
 - 💬 Ask me about JavaScript, React JS, Redux JS, HTML5, CSS3 and Front-End Development
-- [Resume](https://docs.google.com/document/d/1Cq3vIVSq_ToTm2zCzFlalcc3Z8uASaU-bHmCEvZ7oJg/edit?usp=share_link)
 - 📫 Connect with me: Check links👇🏻😊
 
 <a href="https://www.linkedin.com/in/santhosh-subramani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
